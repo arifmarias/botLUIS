@@ -1,1 +1,1 @@
-# Weather-Chatbot-Using-Luis
+# COVID INFO Chatbot-Using-Luis
